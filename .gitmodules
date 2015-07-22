@@ -1,0 +1,69 @@
+[submodule "java/drda/java_drda_HelloGalaxy"]
+	path = java/drda/java_drda_HelloGalaxy
+	url = https://github.com/ibm-informix/java_drda_HelloGalaxy
+[submodule "java/drda/java_drda_HelloWorld"]
+	path = java/drda/java_drda_HelloWorld
+	url = https://github.com/ibm-informix/java_drda_HelloWorld
+[submodule "java/mongo/java_mongo_HelloGalaxy"]
+	path = java/mongo/java_mongo_HelloGalaxy
+	url = https://github.com/ibm-informix/java_mongo_HelloGalaxy
+[submodule "java/mongo/java_mongo_HelloWorld"]
+	path = java/mongo/java_mongo_HelloWorld
+	url = https://github.com/ibm-informix/java_mongo_HelloWorld
+[submodule "java/rest/java_rest_HelloGalaxy"]
+	path = java/rest/java_rest_HelloGalaxy
+	url = https://github.com/ibm-informix/java_rest_HelloGalaxy
+[submodule "java/rest/java_rest_HelloWorld"]
+	path = java/rest/java_rest_HelloWorld
+	url = https://github.com/ibm-informix/java_rest_HelloWorld
+[submodule "java/sqli/java_sqli_HelloGalaxy"]
+	path = java/sqli/java_sqli_HelloGalaxy
+	url = https://github.com/ibm-informix/java_sqli_HelloGalaxy
+[submodule "java/sqli/java_sqli_HelloWorld"]
+	path = java/sqli/java_sqli_HelloWorld
+	url = https://github.com/ibm-informix/java_sqli_HelloWorld
+[submodule "javascript/drda/javascript_drda_HelloGalaxy"]
+	path = javascript/drda/javascript_drda_HelloGalaxy
+	url = https://github.com/ibm-informix/javascript_drda_HelloGalaxy
+[submodule "javascript/drda/javascript_drda_HelloWorld"]
+	path = javascript/drda/javascript_drda_HelloWorld
+	url = https://github.com/ibm-informix/javascript_drda_HelloWorld
+[submodule "javascript/mongo/javascript_mongo_HelloGalaxy"]
+	path = javascript/mongo/javascript_mongo_HelloGalaxy
+	url = https://github.com/ibm-informix/javascript_mongo_HelloGalaxy
+[submodule "javascript/mongo/javascript_mongo_HelloWorld"]
+	path = javascript/mongo/javascript_mongo_HelloWorld
+	url = https://github.com/ibm-informix/javascript_mongo_HelloWorld
+[submodule "javascript/rest/javascript_rest_HelloGalaxy"]
+	path = javascript/rest/javascript_rest_HelloGalaxy
+	url = https://github.com/ibm-informix/javascript_rest_HelloGalaxy
+[submodule "javascript/rest/javascript_rest_HelloWorld"]
+	path = javascript/rest/javascript_rest_HelloWorld
+	url = https://github.com/ibm-informix/javascript_rest_HelloWorld
+[submodule "python/drda/python_drda_HelloGalaxy"]
+	path = python/drda/python_drda_HelloGalaxy
+	url = https://github.com/ibm-informix/python_drda_HelloGalaxy
+[submodule "python/drda/python_drda_HelloWorld"]
+	path = python/drda/python_drda_HelloWorld
+	url = https://github.com/ibm-informix/python_drda_HelloWorld
+[submodule "python/mongo/python_mongo_HelloGalaxy"]
+	path = python/mongo/python_mongo_HelloGalaxy
+	url = https://github.com/ibm-informix/python_mongo_HelloGalaxy
+[submodule "python/mongo/python_mongo_HelloWorld"]
+	path = python/mongo/python_mongo_HelloWorld
+	url = https://github.com/ibm-informix/python_mongo_HelloWorld
+[submodule "python/rest/python_rest_HelloGalaxy"]
+	path = python/rest/python_rest_HelloGalaxy
+	url = https://github.com/ibm-informix/python_rest_HelloGalaxy
+[submodule "python/rest/python_rest_HelloWorld"]
+	path = python/rest/python_rest_HelloWorld
+	url = https://github.com/ibm-informix/python_rest_HelloWorld
+[submodule "ruby/rails/ruby_rails_drda_HelloWorld"]
+	path = ruby/rails/ruby_rails_drda_HelloWorld
+	url = https://github.com/ibm-informix/ruby_rails_drda_HelloWorld
+[submodule "ruby/rails/ruby_rails_mongo_HelloWorld"]
+	path = ruby/rails/ruby_rails_mongo_HelloWorld
+	url = https://github.com/ibm-informix/ruby_rails_mongo_HelloWorld
+[submodule "ruby/rails/ruby_rails_rest_HelloWorld"]
+	path = ruby/rails/ruby_rails_rest_HelloWorld
+	url = https://github.com/ibm-informix/ruby_rails_rest_HelloWorld
