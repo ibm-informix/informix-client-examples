@@ -59,11 +59,11 @@
 	path = python/rest/python_rest_HelloWorld
 	url = https://github.com/ibm-informix/python_rest_HelloWorld
 [submodule "ruby/rails/ruby_rails_drda_HelloWorld"]
-	path = ruby/rails/ruby_rails_drda_HelloWorld
+	path = ruby/rails/drda/ruby_rails_drda_HelloWorld
 	url = https://github.com/ibm-informix/ruby_rails_drda_HelloWorld
 [submodule "ruby/rails/ruby_rails_mongo_HelloWorld"]
-	path = ruby/rails/ruby_rails_mongo_HelloWorld
+	path = ruby/rails/mongo/ruby_rails_mongo_HelloWorld
 	url = https://github.com/ibm-informix/ruby_rails_mongo_HelloWorld
 [submodule "ruby/rails/ruby_rails_rest_HelloWorld"]
-	path = ruby/rails/ruby_rails_rest_HelloWorld
+	path = ruby/rails/rest/ruby_rails_rest_HelloWorld
 	url = https://github.com/ibm-informix/ruby_rails_rest_HelloWorld
