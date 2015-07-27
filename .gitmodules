@@ -58,12 +58,12 @@
 [submodule "python/rest/python_rest_HelloWorld"]
 	path = python/rest/python_rest_HelloWorld
 	url = https://github.com/ibm-informix/python_rest_HelloWorld
-[submodule "ruby/rails/ruby_rails_drda_HelloWorld"]
-	path = ruby/rails/ruby_rails_drda_HelloWorld
-	url = https://github.com/ibm-informix/ruby_rails_drda_HelloWorld
-[submodule "ruby/rails/ruby_rails_mongo_HelloWorld"]
-	path = ruby/rails/ruby_rails_mongo_HelloWorld
-	url = https://github.com/ibm-informix/ruby_rails_mongo_HelloWorld
-[submodule "ruby/rails/ruby_rails_rest_HelloWorld"]
-	path = ruby/rails/ruby_rails_rest_HelloWorld
-	url = https://github.com/ibm-informix/ruby_rails_rest_HelloWorld
+[submodule "ruby/drda/ruby_drda_HelloWorld"]
+	path = ruby/drda/ruby_drda_HelloWorld
+	url = https://github.com/ibm-informix/ruby_drda_HelloWorld
+[submodule "ruby/rest/ruby_rest_HelloWorld"]
+	path = ruby/rest/ruby_rest_HelloWorld
+	url = https://github.com/ibm-informix/ruby_rest_HelloWorld
+[submodule "ruby/mongo/ruby_mongo_HelloWorld"]
+	path = ruby/mongo/ruby_mongo_HelloWorld
+	url = https://github.com/ibm-informix/ruby_mongo_HelloWorld
