@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# informix-client-examples
-
-This repository include example programs demonstrating how to connect to IBM Informix in various client languages.
-
-=======
 #Examples for Informix
 
 ###Looking for a specific language?
@@ -45,4 +39,3 @@ Supported protocols are listed after choosing a language.
 ###Want a single example from this repository?
 
 There are individual repositories for each example. Navigate to the example you want and clone it.
->>>>>>> c5cbe64ccc36aaa49e82d54cc28afa7bd1198f28
