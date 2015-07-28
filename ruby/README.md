@@ -1,10 +1,10 @@
 ##Pick the right client driver or API for your application:
 
-###Data Server JDBC or ibm_db (CLI) driver (DRDA)
-- Your best choice if your application needs to connect to DB2® databases. 
-- You write your queries as SQL statements, which can include prepared statements. 
+###ibm_db (CLI) driver (DRDA)
+- You write your queries as SQL statements, which can include prepared statements.
+- Your best choice if your application needs to be ported from DB2 to Informix.
 - Does not support Informix extended data types. 
-- Uses the DRDA® connection protocols. 
+- Uses the DRDAÂ® connection protocols. 
 
 ###REST API
 - Your best choice if you want direct connections without a client driver. 
