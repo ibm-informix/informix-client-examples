@@ -6,18 +6,11 @@
 - Supports all Informix data types, including extended data types and user-defined data types. 
 - Uses the native Informix connection protocols.
 
-###Data Server JDBC or ibm_db (CLI) driver (DRDA)
-<<<<<<< HEAD
-- Your best choice if your application needs to connect to DB2Â® databases. 
-- You write your queries as SQL statements, which can include prepared statements. 
+###Data Server JDBC (DRDA)
+- You write your queries as SQL statements, which can include prepared statements.
+- Your best choice if your application needs to be ported from DB2 to Informix.
 - Does not support Informix extended data types. 
 - Uses the DRDAÂ® connection protocols. 
-=======
-- Your best choice if your application needs to connect to DB2® databases. 
-- You write your queries as SQL statements, which can include prepared statements. 
-- Does not support Informix extended data types. 
-- Uses the DRDA® connection protocols. 
->>>>>>> c5cbe64ccc36aaa49e82d54cc28afa7bd1198f28
 
 ###REST API
 - Your best choice if you want direct connections without a client driver. 
