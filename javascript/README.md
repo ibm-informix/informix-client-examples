@@ -1,4 +1,4 @@
-##Pick the right client driver or API for your application:
+##Pick the right client driver or API for your Node.js Javascript application:
 
 ###ibm_db (CLI) driver (DRDA)
 - You write your queries as SQL statements, which can include prepared statements.
