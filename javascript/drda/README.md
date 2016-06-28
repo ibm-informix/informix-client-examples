@@ -1,11 +1,14 @@
-#Javascript DRDA Examples
+#Javascript (Node.js) DRDA Examples
 
 ###Hello World vs. Hello Galaxy
 
 The Hello World example will cover basic Informix Database interactions such as inserting, selecting, and updating. 
 It is simple and easy to follow and aimed for users looking for quick references. 
+
 The Hello Galaxy example is more in-depth and includes topics such as transactions, commands, and joins.
 It is more complex and aimed for users looking for a more technical reference and a somewhat modularized approach.
+
+The Hello World example uses the asynchronous functions of the ibm_db (DRDA) driver for Node.js and therefore uses callbacks to handle the result. The Hello Galaxy example uses the synchronous functions of the ibm_db driver which is useful for running a series of sequential calls to the database.
 
 ###Topics for Hello World
 
